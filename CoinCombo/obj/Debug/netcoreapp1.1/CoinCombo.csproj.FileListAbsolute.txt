@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/CoinComboSolution/CoinCombo/bin/Debug/netcoreapp1.1/CoinCombo.deps.json
+/Users/Guest/Desktop/CoinComboSolution/CoinCombo/bin/Debug/netcoreapp1.1/CoinCombo.runtimeconfig.json
+/Users/Guest/Desktop/CoinComboSolution/CoinCombo/bin/Debug/netcoreapp1.1/CoinCombo.runtimeconfig.dev.json
+/Users/Guest/Desktop/CoinComboSolution/CoinCombo/obj/Debug/netcoreapp1.1/CoinCombo.AssemblyInfo.cs
+/Users/Guest/Desktop/CoinComboSolution/CoinCombo/bin/Debug/netcoreapp1.1/CoinCombo.dll
+/Users/Guest/Desktop/CoinComboSolution/CoinCombo/bin/Debug/netcoreapp1.1/CoinCombo.pdb
+/Users/Guest/Desktop/CoinComboSolution/CoinCombo/obj/Debug/netcoreapp1.1/CoinCombo.dll
+/Users/Guest/Desktop/CoinComboSolution/CoinCombo/obj/Debug/netcoreapp1.1/CoinCombo.pdb
